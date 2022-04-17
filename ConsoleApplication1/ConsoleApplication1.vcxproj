@@ -139,7 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplication1.cpp" />
+    <ClCompile Include="Date.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Offer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Date.h" />
+    <ClInclude Include="DynamicArray.h" />
+    <ClInclude Include="Offer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
