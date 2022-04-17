@@ -1,2 +1,3 @@
 ﻿  main.cpp
+C:\Users\HP\Desktop\LABS_OOP\lab8\lab8mirchea\ConsoleApplication1\main.cpp(25,62): warning C4305: 'argument': truncation from 'double' to 'float'
   ConsoleApplication1.vcxproj -> C:\Users\HP\Desktop\LABS_OOP\lab8\lab8mirchea\x64\Debug\ConsoleApplication1.exe

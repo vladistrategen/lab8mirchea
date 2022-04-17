@@ -68,6 +68,10 @@ public:
 			data[i] = other.data[i];
 	}
 
+	inline unsigned int getLength() const { return length; }
+
+	inline unsigned int getCapacity() const { return capacity; }
+
 	void append(const ElementType& v, bool* err=nullptr)
 	{
 		// todo 
